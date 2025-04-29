@@ -1,43 +1,15 @@
-# Data Science and Machine Learning (DSML) Repository
+# Porter-Neural-Networks-Regression
 
-Welcome to the Data Science and Machine Learning (DSML) repository! This repository contains my data analytics and data science-related projects, experiments, and learning materials.
+# About Porter:
 
-## About Me
+Porter is India's Largest Marketplace for Intra-City Logistics. Leader in the country's $40 billion intra-city logistics market, Porter strives to improve the lives of 1,50,000+ driver-partners by providing them with consistent earning & independence. Currently, the company has serviced 5+ million customers
 
-I am passionate about exploring and analyzing data to extract actionable insights and build predictive models. With a background in software development, I bring a unique perspective to the field of data science.
+Porter works with a wide range of restaurants for delivering their items directly to the people.
 
-## Projects
+Porter has a number of delivery partners available for delivering the food, from various restaurants and wants to get an estimated delivery time that it can provide the customers on the basis of what they are ordering, from where and also the delivery partners.
 
-### Netflix: Data Exploration and Visualization
+This dataset has the required data to train a regression model that will do the delivery time estimation, based on all those features
 
-- **Description**: Explored Netflix data to inform content production and strategy, utilizing Python for analysis and visualization.
-- **Technologies Used**: Python, Data Visualization
-- **Results**: Identified viewer preferences, guiding content creation and enhancing business strategy.
+# Problem Statement
 
-### Target SQL - Business Analytics in Brazil
-
-- **Description**: Analyzed 100,000 orders using SQL to provide insights into Target's operations in Brazil.
-- **Technologies Used**: SQL
-- **Results**: Generated actionable insights informing strategic decisions and optimizing operations.
-
-### Aerofit - Descriptive Statistics & Probability Analysis
-
-- **Description**: Investigated customer characteristics using descriptive analytics and probability analysis.
-- **Technologies Used**: Python , Stats and Probability
-- **Results**: Optimized product recommendations, enhancing customer satisfaction and informing strategic decisions.
-
-## Notebooks
-
-This folder contains Colab notebooks for various data analysis, visualization, and machine learning tasks. Each notebook is accompanied by a README file explaining its purpose and contents.
-
-## Data
-
-This folder contains datasets used in the projects and notebooks. Data sources are credited where applicable.
-
-## Getting Started
-
-To get started with the projects and notebooks in this repository, follow these steps:
-
-1. **Clone the repository** to your local machine:
-   ```bash
-   git clone https://github.com/pk142/DSML-repository.git
+As a data scientist at Porter, our task is to analyze the dataset to accurately predict delivery times for different orders. Your primary goal is to build a regression model using neural networks, evaluate its performance, and provide insights for optimizing delivery operations.
